@@ -10,8 +10,8 @@
 ### 1. Clone Repo
 
 ```
-$ git clone git@github.com:hally1023/amazona-react-gtag-integration.git
-$ cd amazona-react-gtag-integration
+$ git clone git@github.com:hally1023/amazona-react-gtag.git
+$ cd amazona-react-gtag
 ```
 
 ### 2. At Root Folder
